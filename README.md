@@ -1,0 +1,2 @@
+# edukaizen
+Edukaizen app
